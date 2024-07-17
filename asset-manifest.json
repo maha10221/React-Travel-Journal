@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Travel-Journal/static/css/main.bcef106c.css",
+    "main.js": "/React-Travel-Journal/static/js/main.7c179910.js",
+    "static/js/787.39019643.chunk.js": "/React-Travel-Journal/static/js/787.39019643.chunk.js",
+    "static/media/charminar1.jpg": "/React-Travel-Journal/static/media/charminar1.908a7cdddb471520f8a5.jpg",
+    "static/media/tajmahal.jpg": "/React-Travel-Journal/static/media/tajmahal.8fe84b9bee234e91ba50.jpg",
+    "static/media/hampi.avif": "/React-Travel-Journal/static/media/hampi.1d55e8fed0b302c88336.avif",
+    "static/media/varanasi-ghats.jpg": "/React-Travel-Journal/static/media/varanasi-ghats.cca69aa57007ae292b73.jpg",
+    "static/media/kerala-backwaters.jpg": "/React-Travel-Journal/static/media/kerala-backwaters.8d2569cd4698ea2f9243.jpg",
+    "static/media/ooty.jpg": "/React-Travel-Journal/static/media/ooty.054911249c553c862ec3.jpg",
+    "static/media/araku-valley.jpg": "/React-Travel-Journal/static/media/araku-valley.0cbf0fe0c2ff7c29f549.jpg",
+    "static/media/ranthambore.jpg": "/React-Travel-Journal/static/media/ranthambore.0dbaf0b612665ed9c407.jpg",
+    "static/media/vizag.jpg": "/React-Travel-Journal/static/media/vizag.88acfe9c1a2479a1ffab.jpg",
+    "static/media/himalayas.jpg": "/React-Travel-Journal/static/media/himalayas.0f033dd2c181094aec62.jpg",
+    "index.html": "/React-Travel-Journal/index.html",
+    "static/media/pin.svg": "/React-Travel-Journal/static/media/pin.1f226562855444fb8b7486883ccc7a0c.svg",
+    "main.bcef106c.css.map": "/React-Travel-Journal/static/css/main.bcef106c.css.map",
+    "main.7c179910.js.map": "/React-Travel-Journal/static/js/main.7c179910.js.map",
+    "787.39019643.chunk.js.map": "/React-Travel-Journal/static/js/787.39019643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcef106c.css",
+    "static/js/main.7c179910.js"
+  ]
+}
